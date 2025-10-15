@@ -1,0 +1,5 @@
+{
+  "name": "Modern User Registration System",
+  "description": "A sleek and responsive user registration system built with React, TypeScript, and Tailwind CSS. It features real-time validation and a modern user interface, designed to be easily embeddable in platforms like Google Sites.",
+  "requestFramePermissions": []
+}
